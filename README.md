@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoobCHAIN
+- 👋 Hi, I’m NoobCHAIN
 - 👀 I’m interested in Full-Stack Blockchain development
 - 🌱 TRYING TO LEARN OBJECT ORIENTED PROGRAMMING- TRYING TO START WITH JAVA,THEN PYTHON AND SOLIDITY...
 - 💞️ I’m looking to collaborate on blockchain projects- new coins, nft's, dapp's, decentralization etc.
